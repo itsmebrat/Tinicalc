@@ -1,0 +1,33 @@
+CALCULATOR INSTRUCTIONS
+
+FILE
+calc2.html - 32 bytes (on your Desktop)
+
+HOW TO USE
+1. Double-click calc2.html to open it in your browser.
+2. Click the bar and type your math, for example: 12*3+4
+3. Click outside the bar to get the answer. The bar now shows 40.
+4. You can keep going: click the bar, type *2 after the answer, and click outside again.
+
+WHAT YOU CAN TYPE
++   add             5+3
+-   subtract        9-4
+*   multiply        6*7
+/   divide          20/4
+%   remainder       17%5
+**  power           2**10
+( ) brackets        (2+3)*4
+
+EXTRA (type exactly as shown)
+Math.sqrt(144)      square root
+Math.round(4.6)     round
+Math.max(3,9,4)     biggest number
+Math.PI             pi
+
+NOTES
+- Use * for multiply (not x) and / for divide.
+- Empty bar + click away shows "undefined". Just clear it and retype.
+- Anything unreadable (like letters) gives no answer. Clear and retype.
+- Decimals can be slightly off: 0.1+0.2 gives 0.30000000000000004.
+- Trig functions use radians, not degrees.
+- Only open calculator files you made yourself, since they run any code typed in.
